@@ -8,4 +8,4 @@ https://github.com/BinarySerializer/BinarySerializer.OpenSpace/blob/main/src/Dat
 https://github.com/byvar/raymap
 
 Due to issues with making the game run on Linux, the project is currently discontinued, since I can't test any files I would have created.
-If you're trying to mod Hype, your best bet is the Rayman modding community and the Rayman control panel app. The app unfortunately does not support some of the encodings used by Hype's GF texture format, so your mileage might vary.
+If you're trying to mod Hype, your best bet is the Rayman modding community and the Rayman control panel app. At the moment of writing, the app unfortunately does not support *some* of the encodings used by Hype's GF texture format, so your mileage might vary.
